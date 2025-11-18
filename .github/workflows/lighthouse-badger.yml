@@ -22,9 +22,7 @@ env:
 
 # TRIGGERS
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 ########################################################################
 # THAT'S IT; YOU DON'T HAVE TO DEFINE ANYTHING IN THE FOLLOWING
