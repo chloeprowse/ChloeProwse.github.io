@@ -4,7 +4,7 @@ title: Case Study : Attrition Analysis
 description: This project analyzes attrition of employees and the factors that may have led to attriton at a certain company.
 img: assets/img/attrition.png
 importance: 1 
-category: school
+category: school 
 related_publications: true
 ---
 
